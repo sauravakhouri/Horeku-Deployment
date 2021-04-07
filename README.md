@@ -1,2 +1,2 @@
-# Horeku-Deployment
+# Heroku-Deployment
 horeku deployment
